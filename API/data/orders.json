@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 5,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 2
+      }
+    ],
+    "total": 49.98,
+    "createdAt": "2026-09-14T16:27:02.509Z"
+  }
+]

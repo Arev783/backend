@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "maria",
+    "passwordHash": "$2b$10$XCgVleC9DD5jR.AQIl1dj.EoVWOnvcr2lQs8yovJs.p/7EpaqlVq6",
+    "role": "customer"
+  },
+  {
+    "id": 2,
+    "username": "James",
+    "passwordHash": "$2b$10$QpF7g2D6OsAFLgpwHhlfA.Pe8Isn4YDqPg6ft0HQqZUWvbGMTYrFK",
+    "role": "customer"
+  },
+  {
+    "id": 3,
+    "username": "Max",
+    "passwordHash": "$2b$10$pEb0Nbok/zXNbwc2TaIhduIJ1tsDrkDKP2lOm7EMdcfck5EYM8tg2",
+    "role": "customer"
+  },
+  {
+    "id": 4,
+    "username": "Tigran",
+    "passwordHash": "$2b$10$sgC1Yt/zZLwJSiCUl88qf.7BnaDCkbsZ/qLfMFZU7q3nS3T/n3ihO",
+    "role": "customer"
+  },
+  {
+    "id": 5,
+    "username": "Mari",
+    "passwordHash": "$2b$10$wfzeSKp3ITOhCYrkaaZasORNoLJw7lc.u6JfOvPGjIMVKLVWu8wYS",
+    "role": "customer"
+  },
+  {
+    "id": 6,
+    "username": "admin",
+    "passwordHash": "$2b$10$VgNHxZQwodZj7wB34ktLS.tsbfV5Kpof0bPpU.MME6QRueuFjuAN.",
+    "role": "admin"
+  },
+  {
+    "id": 7,
+    "username": "Maga",
+    "passwordHash": "$2b$10$k1n3Rv67zg9H4wb40amNQePnFCSybX9f9DRXkLx6By6mftLp9.dSK",
+    "role": "customer"
+  }
+]
